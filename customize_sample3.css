@@ -1,8 +1,9 @@
 :host {
   --day-width: 35px;
   --day-height: 30px;
-  --box-shadow: 0 0px 0px 0 rgb(0 0 0 / 0%);
+  --box-shadow: none;
   --border-radius: 8px;
+  --color-border-default: #000000;
 }
 .calendar {
   width: 330px;
