@@ -1,0 +1,16 @@
+:host {
+  --day-width: 35px;
+  --day-height: 30px;
+  --box-shadow: 0 0px 0px 0 rgb(0 0 0 / 0%);
+  --border-radius: 8px;
+}
+.calendar {
+  width: 330px;
+}
+.calendar>.days-grid>.day .day-price {
+  font-size: 80%;
+  color: #3DC1C3;
+}
+.calendar>.days-grid>.day.selected .day-price {
+  color: #fff;
+}
