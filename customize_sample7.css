@@ -17,5 +17,17 @@
   color: #fff;
 }
 
-.container.inline{
-  box-shadow:0 0px 0px 0 rgba(65,69,88,0),0 0px 0px 0 rgba(0,0,0,0);}
+.container.show {
+    box-shadow: 0 0 0px rgba(0, 0, 0, 0);
+    height: auto;
+    transform:scale(1)
+}
+
+.container.inline {
+    box-shadow: 0 0px 0px 0 rgba(65, 69, 88, 0), 0 0px 0px 0 rgba(0, 0, 0, 0);
+    height: auto;
+    left: 0;
+    position: relative;
+    top: 0;
+    transform:scaleY(1)
+}
