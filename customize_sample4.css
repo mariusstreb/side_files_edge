@@ -1,7 +1,7 @@
 :host {
   --day-width: 35px;
-  --day-height: 30px;
-  --box-shadow: none;
+  --day-height: 35px;
+  --box-shadow: 0 4px 28px 0 rgb(0 0 0 / 92%);
   --border-radius: 8px;
   --color-border-default: #000000;
 }
