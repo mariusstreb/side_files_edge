@@ -4,6 +4,7 @@
   --box-shadow: 0 4px 28px 0 rgb(0 0 0 / 92%);
   --border-radius: 8px;
   --color-border-default: #000000;
+  --color-fg-primary:#d9d9d9;
 }
 .calendar {
   width: 330px;
