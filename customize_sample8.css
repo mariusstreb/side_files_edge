@@ -18,8 +18,10 @@
 }
 
 .container.show {
-    box-shadow: 0 0 0px rgba(0, 0, 0, 0);
+    box-shadow: 5 5 25px rgba(140, 140, 140, 1);
     height: auto;
+    border: 1px;
+ 
     transform:scale(1)
 }
 
