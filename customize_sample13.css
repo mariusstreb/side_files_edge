@@ -5,6 +5,7 @@
   --border-radius: 8px;
   --color-border-default: #000000;
   --color-fg-primary:#3DC1C3;
+  --color-bg-locked:#bce5e5
 }
 .calendar {
   width: 330px;
