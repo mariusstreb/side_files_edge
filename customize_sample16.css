@@ -58,6 +58,7 @@
 .container.range-plugin {
   position: fixed !important;
   top: calc(50% - 10px) !important;
+  margin-top: 25px;
   left: 50% !important;
   transform: translate(-50%, -50%) !important;
 }
