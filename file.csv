@@ -1,65 +1,64 @@
-ids,labels,parents
-Energy Drink, Functional
-Whiskey, Spirits
-Sparkling, Water
-Mixers, Cocktails
-Enhanced, Water
-Still, Water
-Sweetened, Tea
-Tequila, Spirits
-Cold Brew, Coffee
-Vodka, Spirits
-Juice Drink, Juice
-Protein Drinks and Supplements, Functional
-Unsweetened, Tea
-Lemonade, Juice
-CBD, Functional
-Herbal and Alternative, Tea
-Other Shots, Functional
-Fruit Juice, Juice
-Other Liqueur, Spirits
-Gin, Spirits
-Coconut Water and Juice, Juice
-Cold Pressed or Raw, Juice
-Ready to Pour Cocktail, Spirits
-Hydration / Electrolyte Drinks, Functional
-Alcohol-Free, Spirits
-Other Tablets & Powder, Functional
-Yerba Mate, Tea
-Probiotic / Prebiotic, Functional
-Rum, Spirits
-Sports Drink, Sports Drinks
-Mocktails, Cocktails
-Relaxation Drink, Functional
-Smoothie, Juice
-Nut, Seed or Fruit Milk, Juice
-Bourbon, Spirits
-Recovery and Hangover, Functional
-Energy Shot, Functional
-Mezcal, Spirits
-Sparkling Juice, Juice
-Matcha, Tea
-Energy Supplement, Functional
-THC, Functional
-Flavored Milk, Dairy
-Vinegar-based, Functional
-Adaptogenic / Other, Functional
-Plant Water, Juice
-Fitness and Supplement Drinks, Sports Drinks
-Bitters, Cocktails
-Smoothie and Shakes, Dairy
-Brandy, Spirits
-Hard Kombucha, Kombucha
-Meal Replacement, Functional
-Scotch, Spirits
-Cognac, Spirits
-Other, Juice
-Liqueur, Spirits
-Aloe Vera, Juice
-Non-Alcoholic, Beer
-Margarita, Cocktails
-Milk, Dairy
-Low-Alcohol, Spirits
-High Protein, Dairy
-Margaritas, Cocktails
-Moonshine, Spirits
+Energy Drink-Functional, Functional
+Whiskey-Spirits, Spirits
+Sparkling-Water, Water
+Mixers-Cocktails, Cocktails
+Enhanced-Water, Water
+Still-Water, Water
+Sweetened-Tea, Tea
+Tequila-Spirits, Spirits
+Cold Brew-Coffee, Coffee
+Vodka-Spirits, Spirits
+Juice Drink-Juice, Juice
+Protein Drinks and Supplements-Functional, Functional
+Unsweetened-Tea, Tea
+Lemonade-Juice, Juice
+CBD-Functional, Functional
+Herbal and Alternative-Tea, Tea
+Other Shots-Functional, Functional
+Fruit Juice-Juice, Juice
+Other Liqueur-Spirits, Spirits
+Gin-Spirits, Spirits
+Coconut Water and Juice-Juice, Juice
+Cold Pressed or Raw-Juice, Juice
+Ready to Pour Cocktail-Spirits, Spirits
+Hydration / Electrolyte Drinks-Functional, Functional
+Alcohol-Free-Spirits, Spirits
+Other Tablets & Powder-Functional, Functional
+Yerba Mate-Tea, Tea
+Probiotic / Prebiotic-Functional, Functional
+Rum-Spirits, Spirits
+Sports Drink-Sports Drinks, Sports Drinks
+Mocktails-Cocktails, Cocktails
+Relaxation Drink-Functional, Functional
+Smoothie-Juice, Juice
+Nut, Seed or Fruit Milk-Juice, Juice
+Bourbon-Spirits, Spirits
+Recovery and Hangover-Functional, Functional
+Energy Shot-Functional, Functional
+Mezcal-Spirits, Spirits
+Sparkling Juice-Juice, Juice
+Matcha-Tea, Tea
+Energy Supplement-Functional, Functional
+THC-Functional, Functional
+Flavored Milk-Dairy, Dairy
+Vinegar-based-Functional, Functional
+Adaptogenic / Other-Functional, Functional
+Plant Water-Juice, Juice
+Fitness and Supplement Drinks-Sports Drinks, Sports Drinks
+Bitters-Cocktails, Cocktails
+Smoothie and Shakes-Dairy, Dairy
+Brandy-Spirits, Spirits
+Hard Kombucha-Kombucha, Kombucha
+Meal Replacement-Functional, Functional
+Scotch-Spirits, Spirits
+Cognac-Spirits, Spirits
+Other-Juice, Juice
+Liqueur-Spirits, Spirits
+Aloe Vera-Juice, Juice
+Non-Alcoholic-Beer, Beer
+Margarita-Cocktails, Cocktails
+Milk-Dairy, Dairy
+Low-Alcohol-Spirits, Spirits
+High Protein-Dairy, Dairy
+Margaritas-Cocktails, Cocktails
+Moonshine-Spirits, Spirits
